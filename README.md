@@ -1,4 +1,4 @@
-#Useful Commands -
+# Useful Commands -
 
 **Build the images:**
 ```docker-compose -f docker-compose-dev.yml build```
@@ -39,4 +39,4 @@
 
 # Microservices with Docker, Flask, and React
 
-[![Build Status](https://travis-ci.org/YOUR_GITHUB_USERNAME/testdriven-app.svg?branch=master)](https://travis-ci.org/palasgaonkar/testdriven-app)
+[![Build Status](https://travis-ci.org/palasgaonkar/testdriven-app.svg?branch=master)](https://travis-ci.org/palasgaonkar/testdriven-app)
