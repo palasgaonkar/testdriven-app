@@ -1,4 +1,4 @@
-# Useful Commands -
+# Useful Commands
 
 **Build the images:**
 ```docker-compose -f docker-compose-dev.yml build```
@@ -35,6 +35,9 @@
 
 **Access postgres database:**
 ```docker-compose -f docker-compose-dev.yml exec users-db psql -U postgres```
+
+
+
 
 
 # Microservices with Docker, Flask, and React
