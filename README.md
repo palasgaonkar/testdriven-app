@@ -35,11 +35,3 @@
 
 **Access postgres database:**
 ```docker-compose -f docker-compose-dev.yml exec users-db psql -U postgres```
-
-
-
-
-
-# Microservices with Docker, Flask, and React
-
-[![Build Status](https://travis-ci.org/palasgaonkar/testdriven-app.svg?branch=master)](https://travis-ci.org/palasgaonkar/testdriven-app)
